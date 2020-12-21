@@ -12,11 +12,6 @@ https://data.world/jgrosz99/nba-player-data-1978-2016 - NBA Player Data Per Seas
 
 We hope to answer the following questions: Is there any correlation between a player's college carreer and their NBA success? Is there any biometric data to support a correlatino between player stats and NBA success? Can these correlations be used as an efficient predictive model for future players being drafted to the NBA?
 
-## Data exploration of the project and analysis phase 
-
-
-
-
 ## Team communication protocol
 Our protocol for communicating during this collaboration is to utilize a team slack channel that was created for sharing updates, questions, and updating members on this project. 
 
@@ -24,9 +19,10 @@ Our protocol for communicating during this collaboration is to utilize a team sl
 * Number of all-star appearances
 * Length in the league 
 * Career length
-* Win shares per 36 min play
+* Win shares per 48 min play
 * Number of years played in college 
 * Massive injuries that will serve as outliers 
+* Note: Only base players with combined metrics to limit and filter down the outlier data 
 
 
 
