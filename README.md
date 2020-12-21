@@ -3,6 +3,7 @@ This is the final project for the Data Analytics course. Our topic is focused on
 
 ## Source data and questions to be answered 
 The sources for our data are below: 
+
 https://data.world/bgp12/nbancaacomparisons - To compare player career statistics between the NBA and NCAA to give an overall view of a player's career trajectory.
 
 https://data.world/achou/nba-draft-combine-measurements - Measurements for NBA draft combine participants from DraftExpress.com
