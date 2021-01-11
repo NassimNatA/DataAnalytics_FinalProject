@@ -31,15 +31,6 @@ We hope to answer the following questions:
 ## Team communication protocol
 Our protocol for communicating during this collaboration is to utilize a team slack channel that was created for sharing updates, questions, and updating members on this project. 
 
-## College statistical categories to be explored 
-* Number of all-star appearances
-* Length in the league 
-* Career length
-* Win shares per 48 min play
-* Number of years played in college 
-* Massive injuries that will serve as outliers 
-* Note: Only base players with combined metrics to limit and filter down the outlier data 
-
-
+## Data Visualizations and Results 
 
 
