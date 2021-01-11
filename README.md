@@ -41,7 +41,15 @@ Our protocol for communicating during this collaboration is to utilize a team sl
 The following datavisualizations were generated from Tableau after data parsing with SQL: 
 
 ![alt_text](https://github.com/NassimNatA/DataAnalytics_FinalProject/blob/Iliana_Portugal/BMI%20Metric%20Comparison.png)
+
+**Strong clustering of Winshare/48 at 0.0-0.2 interval with biometric correlation to weight above 200 lbs, height above 5 ft, standing vertical above 100, and max vertical at 0 or above 100.**
+
 ![alt_text](https://github.com/NassimNatA/DataAnalytics_FinalProject/blob/Iliana_Portugal/Player%20and%20WinShare%20Count%20by%20College.png)
+
+**Significant bias for Winshare/48 success by leading colleges. Notably, players from University of Kentucky, Louisana State University, and Stanford University**
+
 ![alt_text](https://github.com/NassimNatA/DataAnalytics_FinalProject/blob/Iliana_Portugal/WinShare%20Bubble%20Chart.png)
+
+**This bubble chart demonstrates a majority fo Winshare/48 in the NBA league is clustered at 0.2 (orange), with few outliers of 0.917 (dark orange/red)
 
 
