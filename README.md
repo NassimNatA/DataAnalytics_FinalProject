@@ -36,6 +36,13 @@ We hope to answer the following questions:
 ## Team communication protocol
 Our protocol for communicating during this collaboration is to utilize a team slack channel that was created for sharing updates, questions, and updating members on this project. 
 
+## Description of Deliverables 
+[Link to Deliverable Branch](https://github.com/NassimNatA/DataAnalytics_FinalProject/tree/Nassim_Ataii). This branch contains the draft tableau dashboard with archieved dataset (round 1), draft ppt for group presentation, and tableau blueprint ppt for dashboard planning. 
+
+[Link to Deliverable Branch](https://github.com/NassimNatA/DataAnalytics_FinalProject/tree/Eric_Ralston). This branch contains parsed NBA datasets cleaned by SQL for machine learning (all_seasons.csv and nba_machine_learning_dataset.csv), along with a  machine learning model .ipynb file (Project (1).ipynb)
+
+[Link to Deliverable Branch](https://github.com/NassimNatA/DataAnalytics_FinalProject/tree/Iliana_Portugal). This branch contains Seaborn visualizations (Seaborn_Visualizations.ipynb), and a second machine learning model (Machine_Learning_Model.ipynb), and the final group presentation ppt. 
+
 ## Data Visualizations and Results 
 
 The following datavisualizations were generated from Tableau after data parsing with SQL: 
@@ -50,6 +57,6 @@ The following datavisualizations were generated from Tableau after data parsing 
 
 ![alt_text](https://github.com/NassimNatA/DataAnalytics_FinalProject/blob/Iliana_Portugal/WinShare%20Bubble%20Chart.png)
 
-**This bubble chart demonstrates a majority fo Winshare/48 in the NBA league is clustered at 0.2 (orange), with few outliers of 0.917 (dark orange/red)
+**This bubble chart demonstrates a majority fo Winshare/48 in the NBA league is clustered at 0.2 (orange), with few outliers of 0.917 (dark orange/red)**
 
 
