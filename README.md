@@ -23,16 +23,10 @@ https://data.world/jgrosz99/nba-player-data-1978-2016 - NBA Player Data Per Seas
 - Average assists
 - Massive injuries that will serve as outliers
 
-- The sources for our data are the following:
-
-To compare player career statistics between the NBA and NCAA to give an overall view of a player's career trajectory: https://data.world/bgp12/nbancaacomparisons
-
-Measurements for NBA draft combine participants from DraftExpress.com: https://data.world/achou/nba-draft-combine-measurements
-
-NBA Player Data Per Season From 1978-2016: https://data.world/jgrosz99/nba-player-data-1978-2016
-
-
-We hope to answer the following questions: Is there any correlation between a player's college carreer and their NBA success? Is there any biometric data to support a correlatino between player stats and NBA success? Can these correlations be used as an efficient predictive model for future players being drafted to the NBA?
+We hope to answer the following questions: 
+- Is there any correlation between NBA player past and future performance?
+- Which metrics strongly correlate with player performance?
+- Can we predict an NBA players season scores (points, rebounds and assists)?
 
 ## Team communication protocol
 Our protocol for communicating during this collaboration is to utilize a team slack channel that was created for sharing updates, questions, and updating members on this project. 
