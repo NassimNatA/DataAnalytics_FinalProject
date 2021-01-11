@@ -38,6 +38,8 @@ Our protocol for communicating during this collaboration is to utilize a team sl
 
 ## Data Visualizations and Results 
 
+The following datavisualizations were generated from Tableau after data parsing with SQL: 
+
 ![alt_text](https://github.com/NassimNatA/DataAnalytics_FinalProject/blob/Iliana_Portugal/BMI%20Metric%20Comparison.png)
 ![alt_text](https://github.com/NassimNatA/DataAnalytics_FinalProject/blob/Iliana_Portugal/Player%20and%20WinShare%20Count%20by%20College.png)
 ![alt_text](https://github.com/NassimNatA/DataAnalytics_FinalProject/blob/Iliana_Portugal/WinShare%20Bubble%20Chart.png)
