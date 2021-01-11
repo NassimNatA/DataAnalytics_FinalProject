@@ -1,5 +1,9 @@
 # Correlation between NBA statistical categories and NBA success
+
+![alt_text](https://github.com/NassimNatA/DataAnalytics_FinalProject/tree/Nassim_Ataii)
+
 Our topic is focused on NBA player statistics and their ability to predict performance in the 2019 season. This topic was selected to determine if there are stats of NBA players' career that are indicators of NBA career success, and if they can be used to predict future metrics. We arebuilding a model that will be able to predict future NBA player statistics. The season statistics we hope to predict are: rebounds, points and assists.
+
 
 ## Source data and questions to be answered 
 The sources for our data are below: 
